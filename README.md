@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  
+### 🌸 Olá, me chamo Poliana 🌸
 
 <!--
 **polianasmt/polianasmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

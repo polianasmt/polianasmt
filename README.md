@@ -1,12 +1,12 @@
 <div align="center">
   
-### 🌸 Olá, me chamo Poliana 🌸
+# 🌸 Olá, me chamo Poliana 🌸
 
-# Sobre mim -
+### Sobre mim -
 Sou uma estudante de ciência da computação, atualmente no 3° semestre.
 Apaixonada por tecnologia desde sempre. 
 
-# Atualmente aprendendo - 
+### Atualmente aprendendo - 
 
 <p align="center">
   <a href="https://skillicons.dev">

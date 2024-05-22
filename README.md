@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌸 Olá, me chamo Poliana 🌸
+# 💙🩵 Olá, me chamo Poliana 💙🩵
 
 ### Sobre mim -
 Sou uma estudante de ciência da computação, atualmente no 3° semestre.

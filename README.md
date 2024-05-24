@@ -8,7 +8,7 @@ Apaixonada por tecnologia desde sempre.
 
 ### Atualmente aprendendo - 
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,py" />
   </a>

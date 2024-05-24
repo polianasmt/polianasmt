@@ -1,12 +1,13 @@
 
-  
+  ![vFKqnCdLPNOKc](https://github.com/polianasmt/polianasmt/assets/165100641/2ec1f71e-1f4a-43ca-8bc4-137e45bc5220)
+
 # 💙🩵 Olá, me chamo Poliana 💙🩵
 
-### Sobre mim -
+#### - Sobre mim -
 Sou uma estudante de ciência da computação, atualmente no 3° semestre.
 Apaixonada por tecnologia desde sempre. 
 
-### Atualmente aprendendo - 
+#### - Atualmente aprendendo - 
 
 
   <a href="https://skillicons.dev">

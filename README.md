@@ -4,8 +4,8 @@
 # 💙🩵 Olá, me chamo Poliana 💙🩵
 
 #### - Sobre mim -
-Sou uma estudante de ciência da computação, atualmente no 3° semestre.
-Apaixonada por tecnologia desde sempre. 
+Sou estudante de ciência da computação, atualmente no 3° semestre.
+Amante de tecnologia desde sempre. 
 
 #### - Atualmente aprendendo - 
 

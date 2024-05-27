@@ -16,7 +16,7 @@ Amante de tecnologia desde sempre.
 </p>
 
 ### Status
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ### Redes sociais -
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natorishige_/?next=%2F)

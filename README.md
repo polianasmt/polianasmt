@@ -16,7 +16,7 @@ Amante de tecnologia desde sempre.
 </p>
 
 ### Status
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&count_private=true&theme=blue-green&title_color=white)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&count_private=true&theme=blue-green&title_color=FFFFFF)](#)
 
 ### Redes sociais -
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natorishige_/?next=%2F)

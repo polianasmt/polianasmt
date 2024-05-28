@@ -15,7 +15,7 @@
   Tenho interesse principalmente por ifraestrutura.
 </p>
 
-<h2 align="center">Learning</h2>
+<h2 align="center">☆ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠</h2>
  
 <p align="center">
  
@@ -25,7 +25,7 @@
 
 </p>
 
-<h2 align="center">Status</h2>
+<h2 align="center">☆ 𝐒𝐭𝐚𝐭𝐮𝐬</h2>
 
 <p align="center">
  
@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 align="center">Operational System</h2>
+<h2 align="center">☆ 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦</h2>
 
 <p align="center">
  
@@ -43,7 +43,7 @@
 </p>
 
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">☆ 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚</h2>
 
 <p align="center">
 <a href="https://www.instagram.com/natorishige_/?next=%2F/">
@@ -56,4 +56,7 @@
 </a>
 </p>
 
-
+<h2 align="center">☆ 𝐒𝐩𝐨𝐭𝐢𝐟𝐲</h2>
+<p align="center">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=qzyab63alhsl4pfwlg2isvvw4"/>
+ </p>

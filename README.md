@@ -7,7 +7,7 @@
 
 </p>
 
-<p align="left"> 
+<p align="center"> 
  Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo.  
  Fiz técnico em informática 
  por 3 anos e atualmente estou cursando  Ciência da computação na terceira fase.

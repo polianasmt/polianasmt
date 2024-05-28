@@ -9,8 +9,9 @@
 
 <p align="center"> 
  Me chamo Poliana e tenho 20 anos, estudo na área de T.I desde 2019.  
- Fiz técnico em informática 
- por 3 anos e atualmente estou cursando  Ciência da computação na terceira fase.
+ 
+ Completei técnico em informática de nível médio
+ e atualmente estou cursando  Ciência da computação na terceira fase.
  Sou um amante de tecnologia desde sempre, procuro crescer profissionalmente e aprender coisas novas.
 </p>
 

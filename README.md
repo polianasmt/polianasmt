@@ -7,32 +7,50 @@
 
 </p>
 
-<h4 align="center">
-
-
-  Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo. Fiz técnico em informática por 3 anos
+<p align="center">  Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo. Fiz técnico em informática por 3 anos
   e atualmente estou cursando Ciência da computação na terceira fase.
   Sou uma amante de tecnologia desde sempre, procuro crescer profissionalmente e aprender coisas novas.
   Tenho interesse principalmente por ifraestrutura.
+ 
+</p>
+
+<h2 align="center">Learning</h2>
+ 
+<p align="center">
+ 
+ <img src="https://img.shields.io/badge/python-131c46?style=for-the-badge&logo=python&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/C-131c46?style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-131c46?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+<h2 align="center">Status</h2>
+
+<p align="center">
+ 
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&bg_color=131c46&border_color=30A3DC&title_color=fff&text_color=fff"/>
+
+</p>
 
 
-#### Learning
+<h2 align="center">Operational System</h2>
 
-![Python](https://img.shields.io/badge/python-131c46?style=for-the-badge&logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/C-131c46?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-131c46?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+ 
+ <img src="https://img.shields.io/badge/Windows-131c46?style=for-the-badge&logo=windows&logoColor=fff"/>
 
-
-#### Status
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polianasmt&layout=compact&bg_color=131c46&border_color=30A3DC&title_color=fff&text_color=fff)
+</p>
 
 
-#### Operational system 
-  
-![Windows](https://img.shields.io/badge/Windows-131c46?style=for-the-badge&logo=windows&logoColor=fff)
+<h2 align="center">Social Media</h2>
+
+<p align="center">
+ 
+ <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F"/>
+ <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b"/>
+
+</p>
 
 
-#### Social media
-  
-[![Instagram](https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poliana-santos-miranda-52579a22b)
+
+

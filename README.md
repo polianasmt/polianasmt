@@ -7,11 +7,12 @@
 
 </p>
 
-<p align="center">  Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo. Fiz técnico em informática por 3 anos
-  e atualmente estou cursando Ciência da computação na terceira fase.
-  Sou uma amante de tecnologia desde sempre, procuro crescer profissionalmente e aprender coisas novas.
+<p align="left"> 
+ Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo.  
+ Fiz técnico em informática 
+ por 3 anos e atualmente estou cursando  Ciência da computação na terceira fase.
+ Sou uma amante de tecnologia desde sempre, procuro crescer profissionalmente e aprender coisas novas.
   Tenho interesse principalmente por ifraestrutura.
- 
 </p>
 
 <h2 align="center">Learning</h2>
@@ -46,11 +47,10 @@
 
 <p align="center">
  
- <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F"/>
- <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b"/>
+ <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F)"/>
+ <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b)"/>
 
 </p>
-
 
 
 

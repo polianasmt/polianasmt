@@ -1,8 +1,4 @@
-# Bem-vindo
-
-  ![vFKqnCdLPNOKc](https://github.com/polianasmt/polianasmt/assets/165100641/2ec1f71e-1f4a-43ca-8bc4-137e45bc5220)
-
-# 💙🩵 Olá, me chamo Poliana 💙🩵
+![banner (3)](https://github.com/polianasmt/polianasmt/assets/165100641/12714777-e393-4c65-9fbd-896381064ce8)
 
 #### About me -
 Sou estudante de ciência da computação, atualmente no 3° semestre.

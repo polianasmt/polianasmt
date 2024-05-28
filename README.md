@@ -46,11 +46,14 @@
 <h2 align="center">Social Media</h2>
 
 <p align="center">
+<a href="https://www.instagram.com/natorishige_/?next=%2F/">
+ <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F"/>
+</a>
  
- <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F)"/>
- <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b)"/>
-
+ <a href="www.linkedin.com/in/poliana-santos-miranda-52579a22b">
+ <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b"/>
+  
+</a>
 </p>
-
 
 

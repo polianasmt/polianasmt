@@ -50,7 +50,7 @@
  <img src="https://img.shields.io/badge/Instagram-131c46?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/natorishige_/?next=%2F"/>
 </a>
  
- <a href="www.linkedin.com/in/poliana-santos-miranda-52579a22b">
+ <a href="https://www.linkedin.com/in/poliana-santos-miranda-52579a22b/?trk=opento_sprofile_details">
  <img src="https://img.shields.io/badge/LinkedIn-131c46?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/poliana-santos-miranda-52579a22b"/>
   
 </a>

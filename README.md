@@ -1,6 +1,14 @@
 ![banner (3)](https://github.com/polianasmt/polianasmt/assets/165100641/12714777-e393-4c65-9fbd-896381064ce8)
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/polianasmt/polianasmt"/> 
+ <img src="https://badges.pufler.dev/repos/polianasmt"/>
+ <img src="https://badges.pufler.dev/commits/monthly/polianasmt" />
+
+</p>
 
 <h4 align="center">
+
 
   Me chamo poliana e tenho 20 anos, estou estudando T.I há muito tempo. Fiz técnico em informática por 3 anos
   e atualmente estou cursando Ciência da computação na terceira fase.

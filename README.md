@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-Meu nome é Poliana, tenho 20 anos e estudo na área de Tecnologia da Informação desde 2019. Concluí o curso técnico em Informática de nível médio e atualmente estou cursando o terceiro semestre de Ciência da Computação. Sempre fui apaixonada por tecnologia e estou constantemente buscando oportunidades para crescer profissionalmente e expandir meus conhecimentos.
+My name is Poliana, I am 20 years old, and I have been studying in the field of Information Technology since 2019. I completed a high school level technical course in Informatics, and I am currently in the third semester of my Computer Science degree. I have always been passionate about technology and am constantly seeking opportunities to grow professionally and expand my knowledge.
 </p>
 
 <h2 align="center">☆ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠</h2>

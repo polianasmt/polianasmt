@@ -8,10 +8,7 @@
 </p>
 
 <p align="center"> 
- Me chamo Poliana e tenho 20 anos, estudo na área de T.I desde 2019.  
- Completei técnico em informática de nível médio
- e atualmente estou cursando  Ciência da computação na terceira fase.
- Sou um amante de tecnologia desde sempre, procuro crescer profissionalmente e aprender coisas novas.
+Meu nome é Poliana, tenho 20 anos e estudo na área de Tecnologia da Informação desde 2019. Concluí o curso técnico em Informática de nível médio e atualmente estou cursando o terceiro semestre de Ciência da Computação. Sempre fui apaixonada por tecnologia e estou constantemente buscando oportunidades para crescer profissionalmente e expandir meus conhecimentos.
 </p>
 
 <h2 align="center">☆ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠</h2>

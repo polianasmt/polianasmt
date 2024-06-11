@@ -18,6 +18,7 @@ My name is Poliana, I am 20 years old, and I have been studying in the field of 
  <img src="https://img.shields.io/badge/python-131c46?style=for-the-badge&logo=python&logoColor=fff"/>
  <img src="https://img.shields.io/badge/C-131c46?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/GIT-131c46?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-131c46?style=for-the-badge&logo=html5&logoColor=white"/>
 
 </p>
 
